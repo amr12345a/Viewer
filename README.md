@@ -29,24 +29,24 @@ This project is a Python-based solution designed to streamline job hunting on Fr
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/freelancer-job-notification-bot.git
    cd freelancer-job-notification-bot
-   \`\`\`
+   ```
 
 2. Install the required packages:
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 ### Usage
 
 1. Set up your environment variables for the Freelancer.com API and Telegram Bot API.
 
 2. Run the bot:
-   \`\`\`bash
+   ```bash
    python bot.py
-   \`\`\`
+   ```
 
 ## Contributions
 
